@@ -1,5 +1,7 @@
 earthkit
 folium
 geopandas
+ipykernel
+ipython
 regionmask
 xarray
