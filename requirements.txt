@@ -3,5 +3,7 @@ folium
 geopandas
 ipykernel
 ipython
+jupyter
+nbconvert<7.16
 regionmask
 xarray
